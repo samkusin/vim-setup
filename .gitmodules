@@ -4,3 +4,12 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = git://github.com/scrooloose/nerdtree
+[submodule "bundle/vim-startify"]
+	path = bundle/vim-startify
+	url = git://github.com/mhinz/vim-startify
+[submodule "bundle/youcompleteme"]
+	path = bundle/youcompleteme
+	url = git://github.com/valloric/youcompleteme
+[submodule "bundle/syntax"]
+	path = bundle/syntax
+	url = git://github.com/octol/vim-cpp-enhanced-highlight.git
