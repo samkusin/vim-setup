@@ -13,3 +13,12 @@
 [submodule "bundle/syntax"]
 	path = bundle/syntax
 	url = git://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule "bundle/cmake-syntax"]
+	path = bundle/cmake-syntax
+	url = git://github.com/nickhutchinson/vim-cmake-syntax.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = git://github.com/pangloss/vim-javascript
+[submodule "bundle/riv"]
+	path = bundle/riv
+	url = https://github.com/rykka/riv.vim
