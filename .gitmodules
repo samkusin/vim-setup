@@ -22,3 +22,9 @@
 [submodule "bundle/riv"]
 	path = bundle/riv
 	url = https://github.com/rykka/riv.vim
+[submodule "bundle/python-mode"]
+	path = bundle/python-mode
+	url = https://github.com/python-mode/python-mode.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline
