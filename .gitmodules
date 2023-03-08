@@ -25,3 +25,6 @@
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/cmake-syntax"]
+	path = bundle/cmake-syntax
+	url = https://github.com/pboettch/vim-cmake-syntax.git
